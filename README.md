@@ -17,7 +17,7 @@
 
 **Motherboard:** Gigabyte Z690 AORUS ELITE DDR4
 
-**GPU:** XFX Radeon RX 6650 XT 8GB (Navi 23)
+**GPU:** Powercolor RX 6800 Red Devil Edition 16GB (Navi 21)
 
 **WiFi/Bluetooth:** Broadcom BCM94360CS with PCIe adapter
 
