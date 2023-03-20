@@ -6,6 +6,8 @@
 
 **Current OC version:** OpenCore 0.9.0
 
+**Current MB BIOS version**: F23 (MD5 9fd4)
+
 ## Specs
 
 **CPU:** Intel Core i7-13700KF
