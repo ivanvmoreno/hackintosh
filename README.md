@@ -41,12 +41,13 @@
 **SMBIOS**: iMacPro1,1
 
 ## Changelog
-
-### Sleep / Wake Problems (March 20 2023)
-
-- Disconnected NZXT AIO pump's internal USB port (pump will default to silent profile)
-- Mapped Bluetooth card PCIe adapter's USB connector as internal
-- 4K monitor black screen on wake due to AGDC preferences (patch applied)
+```
+* Sleep / Wake Problems (March 20 2023)
+    * Disconnected NZXT AIO pump's internal USB port (pump will default to silent profile)
+    * Mapped Bluetooth card PCIe adapter's USB connector as internal
+    * 4K monitor black screen on wake due to AGDC preferences (patch applied)
+* dGPU Audio Fix (March 27 2023)
+```
 
 ## Benchmarks
 
