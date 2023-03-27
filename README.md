@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/IfsTVAq.png" height="150" title="HackintoshLogo">
 
-# Hackintosh Z690
+# Hackintosh Z690 + RX 6800
 
 **Current macOS version:** 13.2.1 (22D68)
 
@@ -10,7 +10,7 @@
 
 ## Specs
 
-**CPU:** Intel Core i7-13700KF
+**CPU:** Intel Core i7-13700KF (no iGPU)
 
 **Cooling:**
 
